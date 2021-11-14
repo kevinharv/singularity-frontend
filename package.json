@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "private": true,
-  "proxy": "http://localhost:3001",
+  "proxy": "https://hackathon-singularity-backend.herokuapp.com",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
